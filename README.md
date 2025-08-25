@@ -1,11 +1,11 @@
 # 👋 Bienvenue, je suis **Hady COULIBALY**
 
-🎯 **Apprenti Business Data Analyst** | **Consultant Data chez ECOSTAT**  
-📍 Basé en France | Étudiant en **Master Intelligence Artificielle & Management (IA School)**  
+ **Apprenti Business Data Analyst** | **Consultant Data chez ECOSTAT**  
+ Basé en France | Étudiant en **Master Intelligence Artificielle & Management (IA School)**  
 
 ---
 
-## 📌 À propos de moi
+##  À propos de moi
 
 Je suis passionné par la **donnée** sous toutes ses formes : de sa collecte à son exploitation.  
 Mon profil hybride en **statistiques, data science et business intelligence** me permet de :  
@@ -13,31 +13,31 @@ Mon profil hybride en **statistiques, data science et business intelligence** me
 - Développer des solutions analytiques exploitables 📊  
 - Transformer des données brutes en **décisions stratégiques** 💡  
 
-✨ **Vision** : accompagner les entreprises dans leur transformation numérique en mettant la donnée au service de la performance et de l’innovation.  
+**Vision** : accompagner les entreprises dans leur transformation numérique en mettant la donnée au service de la performance et de l’innovation.  
 
 ---
 
-## 💼 Expériences
+##  Expériences
 
 - **Consultant Data** – *ECOSTAT*  
-  📊 Analyse de données économiques et statistiques pour appuyer les décisions stratégiques.  
+   Analyse de données économiques et statistiques pour appuyer les décisions stratégiques.  
   🔹 Automatisation des traitements de données  
   🔹 Conception de tableaux de bord interactifs  
   🔹 Analyse prédictive pour études de marché  
 
 - **Projets académiques et personnels**  
-  🎓 Réalisés dans le cadre de mon Master et en autonomie :  
+   Réalisés dans le cadre de mon Master et en autonomie :  
   - Exploration de bases massives (Open Food Facts, données SQL, etc.)  
   - Conception de pipelines de données (ETL)  
   - Développement d’outils interactifs (Streamlit, Shiny, Power BI)  
 
 ---
 
-## 🚀 Projets en vedette
+##  Projets en vedette
 
 ### 🔹 [Analyse des Données Nutri-Score](https://github.com/hadycoul12/Analyse-des-Donnees-Nutri-Score)  
 Exploration et nettoyage de la base **Open Food Facts**, analyses multivariées et visualisations.  
-🎯 Objectif : poser les bases d’un système de suggestion / auto-complétion.  
+ Objectif : poser les bases d’un système de suggestion / auto-complétion.  
 
 ---
 
@@ -56,7 +56,7 @@ Collecte de données (OCDE, ONU, IDH), stockage MySQL, analyses sous **R**, plat
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 | Domaine | Outils |
 |---------|--------|
@@ -69,13 +69,13 @@ Collecte de données (OCDE, ONU, IDH), stockage MySQL, analyses sous **R**, plat
 
 ---
 
-## 🌐 Me retrouver
+##  Me retrouver
 
-- 💼 [LinkedIn](https://linkedin.com/in/hady-coulibaly)  
-- 🖥️ [Portfolio](https://hady-data-showcase.lovable.app/)  
-- 📧 [Email](mailto:coulibalyhady33@gmail.com)  
-- 💬 Discord : **hadycoulibaly**  
+-  [LinkedIn](https://linkedin.com/in/hady-coulibaly)  
+-  [Portfolio](https://hady-data-showcase.lovable.app/)  
+-  [Email](mailto:coulibalyhady33@gmail.com)  
+-  Discord : **hadycoulibaly**  
 
 ---
 
-✨ *“Une donnée seule est brute, mais mise en contexte elle devient décision.”*  
+ *“Une donnée seule est brute, mais mise en contexte elle devient décision.”*  
