@@ -9,9 +9,9 @@
 
 Je suis passionné par la **donnée** sous toutes ses formes : de sa collecte à son exploitation.  
 Mon profil hybride en **statistiques, data science et business intelligence** me permet de :  
-- Construire des modèles prédictifs robustes 🤖  
-- Développer des solutions analytiques exploitables 📊  
-- Transformer des données brutes en **décisions stratégiques** 💡  
+- Construire des modèles prédictifs robustes 
+- Développer des solutions analytiques exploitables  
+- Transformer des données brutes en **décisions stratégiques**  
 
 **Vision** : accompagner les entreprises dans leur transformation numérique en mettant la donnée au service de la performance et de l’innovation.  
 
@@ -19,19 +19,24 @@ Mon profil hybride en **statistiques, data science et business intelligence** me
 
 ##  Expériences
 
-- **Consultant Data** – *ECOSTAT*  
- 🔹Développer des modèles prédictifs afin d’optimiser la prise de décision (demandes client, KPIs) avec scikit-learn. 
- 🔹Analyser et interpréter des données clients pour identifier des tendances stratégiques. 
- 🔹Concevoir et automatiser des tableaux de bord dynamiques pour le suivi des KPIs (Power BI). 
- 
-- **Data analyst** – *Institut national de la statistique* 
- 🔹Assurer la collecte, le nettoyage et la structuration des données du recensement et des statistiques nationales. 
- 🔹Garantir la qualité et la cohérence des données via des techniques de validation et de codification. 
- 🔹Collaborer avec les analystes pour extraire des insights exploitables et orienter les prises de décision. 
+**Consultant Data** –  *Cabinet d’étude ECOSTAT* 
+- Développement de **modèles prédictifs** pour optimiser la prise de décision (scikit-learn).  
+- Analyse et interprétation de données clients pour identifier des **tendances stratégiques**.  
+- Conception et automatisation de **tableaux de bord dynamiques** pour le suivi des KPIs (**Power BI**).  
 
- - **Statisticien / Stage** – *Cellule de planification et de statistique de l’éducation* 
- 🔹Analyser des données éducatives pour alimenter les projets statistiques. 
- 🔹Contribuer à la création de l’annuaire statistique annuel.
+---
+
+**Data Analyst** – *Institut National de la Statistique*
+- Collecte, nettoyage et structuration des données issues du recensement et des statistiques nationales.  
+- Mise en place de techniques de **validation et de codification** pour assurer la qualité et la cohérence des données.  
+- Collaboration avec les analystes pour extraire des **insights exploitables** et orienter les politiques publiques.  
+
+---
+
+**Data Analyst (Stage)** – *Cellule de Planification et de Statistique de l’Éducation*
+- Analyse de données éducatives pour appuyer les projets statistiques.  
+- Contribution à la création de l’**annuaire statistique annuel**.  
+
 
 ---
 
