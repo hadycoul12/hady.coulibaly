@@ -1,7 +1,7 @@
 # 👋 Bienvenue, je suis **Hady COULIBALY**
 
  **Apprenti Business Data Analyst** | **Consultant Data chez ECOSTAT**  
- Basé en France | Étudiant en **Master Intelligence Artificielle & Management (IA School)**  
+ Basé en île-de-France | Étudiant en **Master 2 Data & Intelligence Artificielle**  
 
 ---
 
@@ -20,16 +20,18 @@ Mon profil hybride en **statistiques, data science et business intelligence** me
 ##  Expériences
 
 - **Consultant Data** – *ECOSTAT*  
-   Analyse de données économiques et statistiques pour appuyer les décisions stratégiques.  
-  🔹 Automatisation des traitements de données  
-  🔹 Conception de tableaux de bord interactifs  
-  🔹 Analyse prédictive pour études de marché  
+ 🔹Développer des modèles prédictifs afin d’optimiser la prise de décision (demandes client, KPIs) avec scikit-learn. 
+ 🔹Analyser et interpréter des données clients pour identifier des tendances stratégiques. 
+ 🔹Concevoir et automatiser des tableaux de bord dynamiques pour le suivi des KPIs (Power BI). 
+ 
+- **Data analyst** – *Institut national de la statistique* 
+ 🔹Assurer la collecte, le nettoyage et la structuration des données du recensement et des statistiques nationales. 
+ 🔹Garantir la qualité et la cohérence des données via des techniques de validation et de codification. 
+ 🔹Collaborer avec les analystes pour extraire des insights exploitables et orienter les prises de décision. 
 
-- **Projets académiques et personnels**  
-   Réalisés dans le cadre de mon Master et en autonomie :  
-  - Exploration de bases massives (Open Food Facts, données SQL, etc.)  
-  - Conception de pipelines de données (ETL)  
-  - Développement d’outils interactifs (Streamlit, Shiny, Power BI)  
+ - **Statisticien / Stage** – *Cellule de planification et de statistique de l’éducation* 
+ 🔹Analyser des données éducatives pour alimenter les projets statistiques. 
+ 🔹Contribuer à la création de l’annuaire statistique annuel.
 
 ---
 
@@ -60,7 +62,7 @@ Collecte de données (OCDE, ONU, IDH), stockage MySQL, analyses sous **R**, plat
 
 | Domaine | Outils |
 |---------|--------|
-| **Langages** | Python • R • SQL |
+| **Langages** | Python • R • SQL • SAS |
 | **Data Science** | Pandas • NumPy • Scikit-learn • TensorFlow • SciPy |
 | **Visualisation** | Matplotlib • Seaborn • Plotly • Power BI • Streamlit • Shiny |
 | **Bases de données** | MySQL • PostgreSQL • MongoDB • Redis |
