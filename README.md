@@ -1,4 +1,4 @@
-# 👋 Bienvenue, je suis **Hady COULIBALY**
+# Bienvenue, je suis **Hady COULIBALY**
 
  **Apprenti Business Data Analyst** | **Consultant Data chez ECOSTAT**  
  Basé en île-de-France | Étudiant en **Master 2 Data & Intelligence Artificielle**  
@@ -7,11 +7,17 @@
 
 ##  À propos de moi
 
-Je suis passionné par la **donnée** sous toutes ses formes : de sa collecte à son exploitation.  
-Mon profil hybride en **statistiques, data science et business intelligence** me permet de :  
-- Construire des modèles prédictifs robustes 
-- Développer des solutions analytiques exploitables  
-- Transformer des données brutes en **décisions stratégiques**  
+Passionné par la donnée et son potentiel stratégique, j’ai développé un profil hybride entre **analyse statistique avancée, intelligence artificielle et business intelligence**.
+Mon objectif est de transformer des données complexes en insights exploitables, afin d’améliorer la prise de décision et de générer de la valeur pour les organisations.
+
+Mon parcours m’a permis d’acquérir une expertise solide en statistiques, machine learning, deep learning et ingénierie de données, complétée par une expérience pratique dans la conception de bases de données, le développement d’outils analytiques et la visualisation interactive.
+
+Aujourd’hui, je combine mes compétences techniques et analytiques pour :
+
+- Construire des modèles prédictifs et d’IA appliquée
+- Déployer des solutions de data visualisation interactives (Power BI, Streamlit, Shiny)
+- Automatiser et optimiser la collecte, le traitement et le reporting des données
+- Contribuer à des projets stratégiques en santé, éducation, économie et retail
 
 **Vision** : accompagner les entreprises dans leur transformation numérique en mettant la donnée au service de la performance et de l’innovation.  
 
@@ -42,26 +48,54 @@ Mon profil hybride en **statistiques, data science et business intelligence** me
 
 ##  Projets en vedette
 
+### 🔹 [Chronic Disease Prediction](https://github.com/hadycoul12/chronic-disease-prediction)  
+Développement de modèles de machine learning pour prédire la probabilité de maladies chroniques à partir de données médicales.  
+Objectif : démontrer l’apport de l’IA dans la **prédiction préventive** pour la santé publique.  
+
+---
+
 ### 🔹 [Analyse des Données Nutri-Score](https://github.com/hadycoul12/Analyse-des-Donnees-Nutri-Score)  
-Exploration et nettoyage de la base **Open Food Facts**, analyses multivariées et visualisations.  
- Objectif : poser les bases d’un système de suggestion / auto-complétion.  
+Exploration et nettoyage de la base **Open Food Facts**, réalisation de statistiques descriptives et analyses multivariées.  
+Objectif : poser les bases d’un système de **suggestion intelligente** pour faciliter le remplissage de la base de données.  
+
+---
+
+### 🔹 [Modélisation de Séries Temporelles (Préduction de prix des actions de Tesla)](https://github.com/hadycoul12/-Modelisation-de-Serie-Temporelle)  
+Étude et prévision de données temporelles avec des modèles statistiques (ARIMA, SARIMA) et de machine learning.  
+Objectif : **anticiper des tendances futures** à partir d’historiques.  
+
+---
+
+### 🔹 [Projet Tuteur – Gestion de Données](https://github.com/hadycoul12/Projet-Tuteur-)  
+Projet académique collaboratif visant à modéliser, analyser et visualiser des données pour répondre à une problématique métier.  
+Objectif : Développer une application web interactive permettant de visualiser l’évolution des inégalités de genre à l’échelle mondiale depuis les années 2000.  
+
+---
+
+### 🔹 [Deep Learning (Diagnostic dermatologique)](https://github.com/hadycoul12/Projet-Deep-learning)  
+Mise en œuvre de réseaux de neurones convolutionnels (CNN) pour la classification d’images.  
+Objectif : Développer et entrainer un modèle de classification pour identifier des mélanomes à partir de photographies..  
+
+---
+
+### 🔹 [Natural Language Processing (NLP)](https://github.com/hadycoul12/Natural-Language-Processing-NLP-)  
+Traitement et analyse automatique de textes : prétraitement, vectorisation, modèles de classification.  
+Objectif : comprendre et exploiter le **langage naturel** pour en extraire des insights.  
+
+---
+
+## Projets en cours
+
+### 🔹 [Movie Backend](https://github.com/hadycoul12/movie_backend)  
+Développement d’une **API backend avec FastAPI et SQLAlchemy** pour gérer et interroger une base de données de films.  
+Objectif : créer un service scalable pour alimenter une application de recommandation.  
 
 ---
 
 ### 🔹 [Gestion de Base de Données](https://github.com/hadycoul12/Gestion-de-Base-de-Donnees)  
-Modélisation relationnelle, requêtes SQL avancées et analyse de données de ventes.  
+Conception et exploitation d’une base relationnelle MySQL à partir de données de ventes.  
+Objectif : **requêtes SQL avancées**, analyse des performances commerciales et mise en pratique de la modélisation relationnelle.  
 
----
-
-### 🔹 [Machine Learning – Introduction](https://github.com/hadycoul12/ML_apprentissage_automatique-)  
-Mise en œuvre de modèles de classification et régression, comparaison de performances.  
-
----
-
-### 🔹 Projet d’étude – **Analyse des inégalités sociales et de genre** *(repo en cours)*  
-Collecte de données (OCDE, ONU, IDH), stockage MySQL, analyses sous **R**, plateforme interactive avec **Shiny**.  
-
----
 
 ##  Compétences techniques
 
@@ -79,7 +113,7 @@ Collecte de données (OCDE, ONU, IDH), stockage MySQL, analyses sous **R**, plat
 ##  Me retrouver
 
 -  [LinkedIn](https://linkedin.com/in/hady-coulibaly)  
--  [Portfolio](https://hady-data-showcase.lovable.app/)  
+-  [Portfolio](https://portofolio-hadycoul.lovable.app/)  
 -  [Email](mailto:coulibalyhady33@gmail.com)  
 -  Discord : **hadycoulibaly**  
 
