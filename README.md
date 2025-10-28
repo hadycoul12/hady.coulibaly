@@ -25,6 +25,18 @@ Mon parcours m’a permis d’acquérir une expertise solide en statistiques, ma
 
 ##  Expériences
 
+**Alternant Data Business Analyst** –  *maeva*
+En tant qu’alternant Data Business Analyst chez Maeva, je soutiens l’équipe e-commerce dans l’exploitation des données pour optimiser les performances et accompagner la prise de décision. Je contribue à rendre la donnée plus fiable, plus lisible et plus exploitable au service des équipes métiers.
+
+Contributions clés :
+
+• Participer à l’extraction, au nettoyage et à la structuration des données (ventes, stocks, trafic, KPI).
+• Contribuer à l’enrichissement et à la fiabilisation du datalake.
+• Concevoir des tableaux de bord interactifs alignés sur les besoins métiers.
+• Améliorer et automatiser les reportings récurrents pour gagner en efficacité.
+• Analyser les performances business à travers des indicateurs clés et mettre en lumière les leviers d’optimisation.
+• Fournir des recommandations concrètes pour le pilotage de l’activité e-commerce.
+
 **Consultant Data** –  *Cabinet d’étude ECOSTAT* 
 - Développement de ***modèles prédictifs*** pour optimiser la prise de décision (scikit-learn).  
 - Analyse et interprétation de données clients pour identifier des ***tendances stratégiques***.  
