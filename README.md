@@ -1,136 +1,72 @@
-# Bienvenue, je suis **Hady COULIBALY *(IA Engineer)***
+# Hady Coulibaly
 
- ***Apprenti Data Business Analyst chez* Maeva** | 👤  
- Basé en île-de-France | Étudiant en ***Master 2 Data & Intelligence Artificielle***  
+**Data Analyst & Data Scientist** · Statisticien de formation · Titulaire d'un Master Chef de projet Data & IA
 
----
+3 ans d'expérience en analyse de données : je transforme des données brutes en tableaux de bord fiables, en reportings automatisés et en modèles prédictifs interprétables, au service des équipes métiers.
 
-##  À propos de moi
+[![Disponible](https://img.shields.io/badge/Disponible-imm%C3%A9diatement-2ea44f)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
+[![CDI · CDD · Freelance](https://img.shields.io/badge/CDI%20%C2%B7%20CDD%20%C2%B7%20Freelance-%C3%8Ele--de--France%20%26%20mobilit%C3%A9%20nationale-4f6df5)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
 
-Passionné par la donnée et son potentiel stratégique, j’ai développé un profil hybride entre ***analyse statistique avancée, intelligence artificielle et business intelligence***.
-Mon objectif est de transformer des données complexes en insights exploitables, afin d’améliorer la prise de décision et de générer de la valeur pour les organisations.
-
-Mon parcours m’a permis d’acquérir une expertise solide en statistiques, machine learning, deep learning et ingénierie de données, complétée par une expérience pratique dans la conception de bases de données, le développement d’outils analytiques et la visualisation interactive.
-
-*Aujourd’hui*, je combine mes compétences techniques et analytiques pour :
-
-- Construire des modèles prédictifs et d’IA appliquée
-- Déployer des solutions de data visualisation interactives (Power BI, Streamlit, Shiny)
-- Automatiser et optimiser la collecte, le traitement et le reporting des données
-- Contribuer à des projets stratégiques en santé, éducation, économie et retail
-
-**Vision** : accompagner les entreprises dans leur transformation numérique en mettant la donnée au service de la performance et de l’innovation.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://portofolio-hadycoul.lovable.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white)](mailto:hady.coulibaly.data@gmail.com)
 
 ---
 
-##  Expériences
+## Projet phare : scoring du risque d'annulation (maeva&co)
 
-**Alternant Data Business Analyst** –  *maeva*
-En tant qu’alternant Data Business Analyst chez Maeva, je soutiens l’équipe e-commerce dans l’exploitation des données pour optimiser les performances et accompagner la prise de décision. Je contribue à rendre la donnée plus fiable, plus lisible et plus exploitable au service des équipes métiers.
+Modèle de machine learning qui estime, dès la réservation, la probabilité qu'un dossier soit annulé, restitué dans une application Streamlit pour les équipes CRM.
 
-Contributions clés :
+| 310 862 | 0,764 | 0,263 | 72,7 % |
+|:--:|:--:|:--:|:--:|
+| dossiers analysés | AUC-ROC | PR-AUC (3,6 fois le hasard) | de rappel : plus de 7 annulations sur 10 détectées |
 
-• Participer à l’extraction, au nettoyage et à la structuration des données (ventes, stocks, trafic, KPI).
-• Contribuer à l’enrichissement et à la fiabilisation du datalake.
-• Concevoir des tableaux de bord interactifs alignés sur les besoins métiers.
-• Améliorer et automatiser les reportings récurrents pour gagner en efficacité.
-• Analyser les performances business à travers des indicateurs clés et mettre en lumière les leviers d’optimisation.
-• Fournir des recommandations concrètes pour le pilotage de l’activité e-commerce.
+- Modèle **XGBoost** calibré (régression isotonique), explicabilité **SHAP**, seuil d'alerte raisonné en valeur business.
+- Application **Streamlit** multi-pages : scoring d'un dossier, scoring par lot, simulation d'impact, conformité RGPD et journal d'audit.
+- Code de l'application : [`application`](https://github.com/hadycoul12/application) · Analyse et modélisation : [`memoire_M2`](https://github.com/hadycoul12/memoire_M2)
 
-**Consultant Data** –  *Cabinet d’étude ECOSTAT* 
-- Développement de ***modèles prédictifs*** pour optimiser la prise de décision (scikit-learn).  
-- Analyse et interprétation de données clients pour identifier des ***tendances stratégiques***.  
-- Conception et automatisation de ***tableaux de bord dynamiques*** pour le suivi des KPIs (***Power BI***).  
-
-
-
-**Data Analyst** – *Institut National de la Statistique*
-- Collecte, nettoyage et structuration des données issues du recensement et des statistiques nationales.  
-- Mise en place de techniques de ***validation et de codification*** pour assurer la qualité et la cohérence des données.  
-- Collaboration avec les analystes pour extraire des ***insights exploitables*** et orienter les politiques publiques.  
-
-
-
-**Statisticien (Stage)** – *Cellule de Planification et de Statistique de l’Éducation*
-- Analyse de données éducatives pour appuyer les projets statistiques.  
-- Contribution à la création de l’***annuaire statistique annuel***.  
-
+*Les données de réservation sont confidentielles et ne sont pas publiées.*
 
 ---
 
-##  Projets en vedette
+## Sélection de projets
 
-### 🔹 [Chronic Disease Prediction](https://github.com/hadycoul12/chronic-disease-prediction)  
-Développement de modèles de machine learning pour prédire la probabilité de maladies chroniques à partir de données médicales.  
-Objectif : démontrer l’apport de l’IA dans la ***prédiction préventive*** pour la santé publique.  
-
-
-
-### 🔹 [Analyse des Données Nutri-Score](https://github.com/hadycoul12/Analyse-des-Donnees-Nutri-Score)  
-Exploration et nettoyage de la base ***Open Food Facts***, réalisation de statistiques descriptives et analyses multivariées.  
-Objectif : poser les bases d’un système de ***suggestion intelligente*** pour faciliter le remplissage de la base de données.  
-
-
-
-### 🔹 [Modélisation de Séries Temporelles (Préduction de prix des actions de Tesla)](https://github.com/hadycoul12/-Modelisation-de-Serie-Temporelle)  
-Étude et prévision de données temporelles avec des modèles statistiques (ARIMA, SARIMA) et de machine learning.  
-Objectif : ***anticiper des tendances futures*** à partir d’historiques.  
-
-
-
-### 🔹 [Projet Tuteur (Analyse interactive des inégalités de genre dans le monde)](https://github.com/hadycoul12/Projet-Tuteur-)  
-Projet académique collaboratif visant à modéliser, analyser et visualiser des données pour répondre à une problématique métier.  
-Objectif : Développer une ***application web interactive*** permettant de visualiser l’évolution des inégalités de genre à l’échelle mondiale depuis les années 2000.  
-
-
-
-### 🔹 [Deep Learning (Diagnostic dermatologique)](https://github.com/hadycoul12/Projet-Deep-learning)  
-Mise en œuvre de réseaux de ***neurones convolutionnels (CNN)*** pour la classification d’images.  
-Objectif : Développer et entrainer un modèle de classification pour identifier des mélanomes à partir de photographies..  
-
-
-
-### 🔹 [Natural Language Processing (NLP)](https://github.com/hadycoul12/Natural-Language-Processing-NLP-)  
-Traitement et analyse automatique de textes : prétraitement, vectorisation, modèles de classification.  
-Objectif : comprendre et exploiter le ***langage naturel*** pour en extraire des insights.  
+| Projet | Ce que j'y démontre | Stack |
+|---|---|---|
+| [`movie_backend`](https://github.com/hadycoul12/movie_backend) | Pipeline de bout en bout : base relationnelle, API REST, SDK Python, application Streamlit, Docker | FastAPI, SQLAlchemy, SQLite, Streamlit, Docker |
+| [`application-prediction-frais-sante`](https://github.com/hadycoul12/application-prediction-frais-sante) | Application Streamlit conforme RGPD, modèles interprétables, analyse des biais | Python, scikit-learn, Streamlit, Plotly |
+| [`Projet-Tuteur-`](https://github.com/hadycoul12/Projet-Tuteur-) | Collecte automatisée (OCDE, ONU, IDH), base MySQL, analyses sous R, plateforme Shiny sur les inégalités de genre | Python, MySQL, R, Shiny |
+| [`Analyse-des-Donnees-Nutri-Score`](https://github.com/hadycoul12/Analyse-des-Donnees-Nutri-Score) | Exploration d'Open Food Facts : nettoyage, ACP, clustering | Python, pandas, scikit-learn, Plotly |
+| [`Projet-Deep-learning`](https://github.com/hadycoul12/Projet-Deep-learning) | Détection de mélanomes par transfert d'apprentissage (ResNet50) | Keras, TensorFlow |
+| [`-Modelisation-de-Serie-Temporelle`](https://github.com/hadycoul12/-Modelisation-de-Serie-Temporelle) | Prévision du cours de l'action Tesla : comparaison de SARIMAX, Prophet et LSTM (méthode CRISP-DM) | Python, statsmodels, Prophet, TensorFlow |
 
 ---
 
-## Projets en cours
+## Compétences
 
-### 🔹 [Movie Backend](https://github.com/hadycoul12/movie_backend)  
-Développement d’une ***API backend avec FastAPI et SQLAlchemy*** pour gérer et interroger une base de données de films.  
-Objectif : créer un service scalable pour alimenter une application de recommandation.  
+| | |
+|---|---|
+| **Langages** | Python (avancé), SQL (avancé), R, SAS |
+| **Data & BI** | Power BI (avancé), Tableau, Excel (avancé), Streamlit, R Shiny |
+| **Data engineering** | BigQuery (GCP), Airflow, pipelines ETL, reportings automatisés (Python, crontab, GitLab) |
+| **Machine Learning** | scikit-learn, XGBoost, SHAP, TensorFlow / Keras, statistiques et modèles prédictifs |
+| **Bases de données** | SQL, MongoDB |
+| **Outils** | Git, GitLab, Docker, FastAPI |
 
+## Parcours
 
-
-### 🔹 [Gestion de Base de Données](https://github.com/hadycoul12/Gestion-de-Base-de-Donnees)  
-Conception et exploitation d’une base relationnelle MySQL à partir de données de ventes.  
-Objectif : ***requêtes SQL avancées***, analyse des performances commerciales et mise en pratique de la modélisation relationnelle.  
-
-
----
-
-##  Compétences techniques
-
-| Domaine | Outils |
-|---------|--------|
-| **Langages** | Python • R • SQL • SAS |
-| **Data Science** | Pandas • NumPy • Scikit-learn • TensorFlow • SciPy |
-| **Visualisation** | Matplotlib • Seaborn • Plotly • Power BI • Streamlit • Shiny |
-| **Bases de données** | MySQL • PostgreSQL • MongoDB • Redis |
-| **Big Data & Cloud** | Apache Spark • Docker |
-| **Collaboration** | Git • GitHub |
+- **Data Analyst**, maeva&co (Pierre & Vacances-Center Parcs) : pipelines BigQuery, dashboards, reportings automatisés (-60 % de temps manuel), scoring du risque d'annulation.
+- **Consultant Data**, ECOSTAT : dashboards Power BI, modèles prédictifs, formation de professionnels au Data Mining.
+- **Data Analyst**, Institut national de la statistique : recensement national (plus de 500 000 enregistrements).
+- **Formation** : Master Chef de projet Data & IA (Nexa Digital School) · Licence pro Informatique décisionnelle, Statistique & Big Data (Aix-Marseille Université) · Licence Analyse statistique économique & financière · DUT Statistique et Traitement informatique des données.
 
 ---
 
-##  Me retrouver
+*« Une donnée seule est brute, mais mise en contexte elle devient décision. »*
 
--  [LinkedIn](https://linkedin.com/in/hady-coulibaly)  
--  [Portfolio](https://portofolio-hadycoul.lovable.app/)  
--  [Email](mailto:coulibalyhady33@gmail.com)  
--  Discord : **hadycoulibaly**  
+## Me contacter
 
----
-
- *“Une donnée seule est brute, mais mise en contexte elle devient décision.”*  
+- E-mail : [hady.coulibaly.data@gmail.com](mailto:hady.coulibaly.data@gmail.com)
+- LinkedIn : [hady-coulibaly-data-ia-france-cdi](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
+- Portfolio : [portofolio-hadycoul.lovable.app](https://portofolio-hadycoul.lovable.app/)
+- GitHub : [hadycoul12](https://github.com/hadycoul12)
